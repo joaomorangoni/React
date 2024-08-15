@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header/>
-      <Banner/>
+      <Banner image="home" />
       <Container>
         <h1>ETEC MCM!!</h1>
         <p>Olá Mundo!</p>
